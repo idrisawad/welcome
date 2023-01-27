@@ -1,7 +1,7 @@
 
-#Welcome to my GitHub page! 
+### Welcome to my GitHub page! 
 
-My name is Idris Awad, but you may also know me as @Almost2Late. I am an IT security, AI, WEB3, and blockchain enthusiast with a passion for coding, creating, breaking, and fixing things.
+My name is Idris Awad, but you may also know me as @Almost2Late. I am an IT security, AI, WEB3, and Blockchain enthusiast with a passion for coding, creating, breaking, and fixing things.
 
 I have a diverse background, having worked as a tattoo artist, grayhat hacktivist, and a martial arts 剛柔流 sempai. My interests and skills have led me to explore the ever-evolving world of technology and security, and I am excited to share my projects and contributions with the community.
 
