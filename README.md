@@ -1,4 +1,4 @@
-## Hi, I’m @idrisawad also knwon as @almost2late
+## Hi, I’m @idrisawad also known as @Almost2Late
 
 My hobbys are Coding, Creating, Breaking and Fixing things. 
 ###### Im, an IT Security/ AI / WEB3 / Blockchain Enthusiasst
