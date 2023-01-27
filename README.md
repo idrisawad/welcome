@@ -29,7 +29,7 @@ Thank you for visiting my page, and I hope you enjoy what you find here!
 *By accessing and using this Page, you acknowledge and agree to the terms of this legal disclaimer, policy and copyright notice.*
 
 ###### [My Github Forks](https://github.com/almost2late)
-###### [LinkedIn](https://www.linkedin.com/in/idrisawad1338)
+###### [LinkedIn](https://www.linkedin.com/in/idris-awad)
 ###### [TryHackMe](https://tryhackme.com/p/AlmostTooLate)
 ###### [Mail](mailto:idris-awad@outlook.com)
 ###### Discord : on Request!
