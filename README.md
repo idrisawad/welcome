@@ -1,8 +1,14 @@
-# Welcome, I’m @idrisawad also known as @Almost2Late
 
-Im, an IT Security/ AI / WEB3 / Blockchain Enthusiasst, and my hobbys are Coding, Creating, Breaking and Fixing things. 
+#Welcome to my GitHub page! 
 
-###### Former: Tattoo Artist; Grayhat - Hacktivist; 剛柔流 Sempai
+My name is Idris Awad, but you may also know me as @Almost2Late. I am an IT security, AI, WEB3, and blockchain enthusiast with a passion for coding, creating, breaking, and fixing things.
+
+I have a diverse background, having worked as a tattoo artist, grayhat hacktivist, and a martial arts 剛柔流 sempai. My interests and skills have led me to explore the ever-evolving world of technology and security, and I am excited to share my projects and contributions with the community.
+
+On this page, you will find a variety of projects related to IT security, AI, WEB3 and blockchain, as well as other projects that I find interesting and fun to work on. I invite you to take a look around, and feel free to reach out if you have any questions or want to collaborate on a project.
+
+Thank you for visiting my page, and I hope you enjoy what you find here!
+
 
 ### Legal Disclaimer:
 
