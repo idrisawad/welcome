@@ -1,6 +1,6 @@
-Hi, I’m ###### @idrisawad also knwon as @almost2late
+## Hi, I’m @idrisawad also knwon as @almost2late
 
-My hobbys are Coding, Creating, Breaking and Fixing things
+My hobbys are Coding, Creating, Breaking and Fixing things. 
 
 ###### Former:
 Tattoo Artist
