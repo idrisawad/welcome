@@ -3,16 +3,7 @@
 My hobbys are Coding, Creating, Breaking and Fixing things. 
 ###### Im, an IT Security/ AI / WEB3 / Blockchain Enthusiasst
 
-###### Former:
-Tattoo Artist
-Grayhat - Hacktivist
-剛柔流 Sempai
-
-###### [Mail](mailto:idris-awad@outlook.com)
-###### [My Forks](https://github.com/almost2late)
-###### [LinkedIn](https://www.linkedin.com/in/idrisawad1338)
-###### [TryHackMe](https://tryhackme.com/p/AlmostTooLate)
-###### [Discord : 𝔸𝕃𝕄𝕆𝕊𝕋𝟚𝕃𝔸𝕋𝔼#4308
+###### Former: Tattoo Artist; Grayhat - Hacktivist; 剛柔流 Sempai
 
 ###### Legal Disclaimer:
 
@@ -31,3 +22,9 @@ Grayhat - Hacktivist
 *Please note that using, reproducing or distributing the code or materials provided on this Page without proper attribution and without obtaining express permission from the developer(s) may result in copyright infringement and legal action being taken against you.
 
 *By accessing and using this Page, you acknowledge and agree to the terms of this legal disclaimer, policy and copyright notice.
+
+###### [Mail](mailto:idris-awad@outlook.com)
+###### [My Forks](https://github.com/almost2late)
+###### [LinkedIn](https://www.linkedin.com/in/idrisawad1338)
+###### [TryHackMe](https://tryhackme.com/p/AlmostTooLate)
+###### Discord : 𝔸𝕃𝕄𝕆𝕊𝕋𝟚𝕃𝔸𝕋𝔼#4308
