@@ -1,7 +1,6 @@
 ## Hi, I’m @idrisawad also known as @Almost2Late
 
-My hobbys are Coding, Creating, Breaking and Fixing things. 
-###### Im, an IT Security/ AI / WEB3 / Blockchain Enthusiasst
+Im, an IT Security/ AI / WEB3 / Blockchain Enthusiasst, and my hobbys are Coding, Creating, Breaking and Fixing things. 
 
 ###### Former: Tattoo Artist; Grayhat - Hacktivist; 剛柔流 Sempai
 
@@ -23,8 +22,8 @@ My hobbys are Coding, Creating, Breaking and Fixing things.
 
 *By accessing and using this Page, you acknowledge and agree to the terms of this legal disclaimer, policy and copyright notice.
 
-###### [Mail](mailto:idris-awad@outlook.com)
-###### [My Forks](https://github.com/almost2late)
+###### [My Github Forks](https://github.com/almost2late)
 ###### [LinkedIn](https://www.linkedin.com/in/idrisawad1338)
 ###### [TryHackMe](https://tryhackme.com/p/AlmostTooLate)
-###### Discord : 𝔸𝕃𝕄𝕆𝕊𝕋𝟚𝕃𝔸𝕋𝔼#4308
+###### [Mail](mailto:idris-awad@outlook.com)
+###### Discord : on Request!
