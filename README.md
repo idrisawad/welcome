@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://github.com/idrisawad/idrisawad/blob/main/HelloWorld.gif" width="100"/>
+  <img src="https://github.com/idrisawad/idrisawad/blob/main/HelloWorld.gif" width="150"/>
 
 <div id="badges" align="center">
   <a href="https://github.com/idrisawad">
@@ -84,7 +84,3 @@ Thank you for visiting my page, and I hope you enjoy what you find here!
 
 *By accessing and using this Page, you acknowledge and agree to the terms of this legal disclaimer, policy and copyright notice.*
 
-###### [My Github Forks](https://github.com/almost2late) ######
-###### [TryHackMe](https://tryhackme.com/p/AlmostTooLate) ######
-###### [Mail](mailto:idris-awad@outlook.com) ######
-###### Discord : on Request! ######
