@@ -41,6 +41,7 @@ I have a diverse background, having worked as a tattoo artist, grayhat hacktivis
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-line-wordmark.svg" title="Apache" alt="Apache" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://seeklogo.com/images/K/kali-linux-logo-AED181186E-seeklogo.com.png" title="Kali Linux" alt="Kali Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" title="Debian" alt="Debian" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-line-wordmark.svg" title="RaspberryPi" alt="RaspberryPi" width="40" height="40"/>&nbsp;
@@ -65,7 +66,7 @@ Thank you for visiting my page, and I hope you enjoy what you find here!
 
 ---
 
-### 📊 Official Repo Stats | My Forked Stats 📊 ###
+### 📊 Official Repo Stats - My Forked Stats 📊 ###
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=idrisawad&theme=dark&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=almost2late&theme=dark&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
 
