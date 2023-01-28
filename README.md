@@ -18,7 +18,10 @@
   <a href="https://twitter.com/Almost2Late">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
+  <a href="https://twitter.com/Almost2Late">
+    <img src="https://img.shields.io/badge/𝔸𝕃𝕄𝕆𝕊𝕋𝟚𝕃𝔸𝕋𝔼 4308-blueviolet?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
+</div> 
 
 My name is Idris Awad, but you may also know me as @Almost2Late. I am an IT security, AI, WEB3, and Blockchain enthusiast with a passion for coding, creating, breaking, and fixing things.
 
