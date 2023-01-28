@@ -15,9 +15,6 @@
   <a href="https://twitter.com/Almost2Late">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://github.com/almost2late/">
-    <img src="https://img.shields.io/badge/My_Forks-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
-  </a>
 </div>
 
 My name is Idris Awad, but you may also know me as @Almost2Late. I am an IT security, AI, WEB3, and Blockchain enthusiast with a passion for coding, creating, breaking, and fixing things.
@@ -54,13 +51,19 @@ I have a diverse background, having worked as a tattoo artist, grayhat hacktivis
 
 On this Repo, you will find a variety of projects related to IT security, AI, WEB3 and blockchain, as well as other projects that I find interesting and fun to work on. I invite you to take a look around, and feel free to reach out if you have any questions or want to collaborate on a project.
 
+<div id="badges" align="center">
+   <a href="https://github.com/almost2late/">
+    <img src="https://img.shields.io/badge/My_Forks-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+  </a>
+</div>
+
 Thank you for visiting my page, and I hope you enjoy what you find here!
 
 ---
 
-### :fire: Official Repo Stats | My Forked Stats :fire: ###
+### :chart-increasing: Official Repo Stats | My Forked Stats :chart-increasing: ###
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=idrisawad&theme=dark&hide_border=true&border_radius=4.6)](https://git.io/streak-stats) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=almost2late&theme=dark&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=idrisawad&theme=dark&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=almost2late&theme=dark&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
 
 ---
 
