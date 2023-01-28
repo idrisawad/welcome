@@ -56,7 +56,7 @@ Thank you for visiting my page, and I hope you enjoy what you find here!
 
 ### :fire: My Stats
 
-https://github-readme-streak-stats.herokuapp.com/?user=idrisawad
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?useridrisawad&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
 
