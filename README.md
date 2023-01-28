@@ -1,5 +1,5 @@
 
-### Welcome to my GitHub page! 
+### Welcome to my GitHub Repository! 
 
 My name is Idris Awad, but you may also know me as @Almost2Late. I am an IT security, AI, WEB3, and Blockchain enthusiast with a passion for coding, creating, breaking, and fixing things.
 
