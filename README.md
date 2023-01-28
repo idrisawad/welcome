@@ -6,6 +6,7 @@
 <div id="badges" align="center">
   <a href="https://github.com/idrisawad">
     <img src="https://komarev.com/ghpvc/?username=idrisawad&style=flat-square&color=blue" alt=""/>
+  </a>
   <a href="https://www.linkedin.com/in/idris-awad">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -13,7 +14,6 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=idrisawad&style=flat-square&color=blue" alt=""/>
 
 My name is Idris Awad, but you may also know me as @Almost2Late. I am an IT security, AI, WEB3, and Blockchain enthusiast with a passion for coding, creating, breaking, and fixing things.
 
