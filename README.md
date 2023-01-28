@@ -3,6 +3,15 @@
   <img src="https://github.com/idrisawad/idrisawad/blob/main/HelloWorld.gif" width="100"/>
 </div>
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/idris-awad">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/Almost2Late">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 My name is Idris Awad, but you may also know me as @Almost2Late. I am an IT security, AI, WEB3, and Blockchain enthusiast with a passion for coding, creating, breaking, and fixing things.
 
 I have a diverse background, having worked as a tattoo artist, grayhat hacktivist, and a martial arts 剛柔流 sempai. My interests and skills have led me to explore the ever-evolving world of technology and security, and I am excited to share my projects and contributions with the community.
