@@ -23,7 +23,8 @@
   </a>
 </div> 
 
-My name is Idris Awad, but you may also know me as @Almost2Late. I am an IT security, AI, WEB3, and Blockchain enthusiast with a passion for coding, creating, breaking, and fixing things.
+My name is Idris Awad, but you may also know me as @Almost2Late. 
+I am an IT security, AI, WEB3, and Blockchain enthusiast with a passion for Coding, Creating, Breaking, and Fixing things.
 
 I have a diverse background, having worked as a tattoo artist, grayhat hacktivist, and a martial arts 剛柔流 sempai. My interests and skills have led me to explore the ever-evolving world of technology and security, and I am excited to share my projects and contributions with the community.
 
@@ -45,6 +46,10 @@ I have a diverse background, having worked as a tattoo artist, grayhat hacktivis
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-line-wordmark.svg" title="RaspberryPi" alt="RaspberryPi" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
 </div> 
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idrisawad&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
