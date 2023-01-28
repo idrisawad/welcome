@@ -1,12 +1,13 @@
 
 <div id="header" align="center">
   <img src="https://github.com/idrisawad/idrisawad/blob/main/HelloWorld.gif" width="100"/>
-</div>
-
-<div id="badges" align="center">
+  </a>
   <a href="https://github.com/idrisawad">
     <img src="https://komarev.com/ghpvc/?username=idrisawad&style=flat-square&color=blue" alt=""/>
   </a>
+</div>
+
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/idris-awad">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
