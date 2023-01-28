@@ -12,6 +12,9 @@
   <a href="https://www.linkedin.com/in/idris-awad">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://tryhackme.com/p/AlmostTooLate">
+    <img src="https://img.shields.io/badge/Try_hack_Me-brightgreen?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Badge"/>
+  </a>
   <a href="https://twitter.com/Almost2Late">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
