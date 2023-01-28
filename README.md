@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  < img src="https://github.com/idrisawad/idrisawad/blob/main/HelloWorld.gif" width="100"/>
+  <img src="https://github.com/idrisawad/idrisawad/blob/main/HelloWorld.gif" width="100"/>
 
 <div id="badges" align="center">
   <a href="https://github.com/idrisawad">
