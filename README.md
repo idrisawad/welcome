@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://giphy.com/stickers/tech-code-coding-QTfX9Ejfra3ZmNxh6B" width="100"/>
+  <img src="https://github.com/idrisawad/idrisawad/blob/main/HelloWorld.gif" width="100"/>
 </div>
 
 My name is Idris Awad, but you may also know me as @Almost2Late. I am an IT security, AI, WEB3, and Blockchain enthusiast with a passion for coding, creating, breaking, and fixing things.
