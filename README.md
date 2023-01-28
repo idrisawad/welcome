@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   <img src="https://github.com/idrisawad/idrisawad/blob/main/HelloWorld.gif" width="150"/>
-
+</div>
 <div id="badges" align="center">
   <a href="https://github.com/idrisawad">
     <img src="https://komarev.com/ghpvc/?username=idrisawad&style=flat-square&color=blue" alt=""/>
