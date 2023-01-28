@@ -23,7 +23,8 @@ I have a diverse background, having worked as a tattoo artist, grayhat hacktivis
 
 ---
 
-### :hammer_and_wrench: Languages I prefere:  | ### :hammer_and_wrench: Systems I like playing with:
+### :hammer_and_wrench: Languages I prefere: ### 
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
@@ -35,7 +36,8 @@ I have a diverse background, having worked as a tattoo artist, grayhat hacktivis
 
 ---
 
-### :hammer_and_wrench: Systems I like playing with:
+### :hammer_and_wrench: Systems I like playing with: ### 
+
 <div> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
@@ -44,6 +46,7 @@ I have a diverse background, having worked as a tattoo artist, grayhat hacktivis
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
 </div> 
 
+---
 
 On this Repo, you will find a variety of projects related to IT security, AI, WEB3 and blockchain, as well as other projects that I find interesting and fun to work on. I invite you to take a look around, and feel free to reach out if you have any questions or want to collaborate on a project.
 
