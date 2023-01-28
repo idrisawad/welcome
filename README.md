@@ -39,6 +39,7 @@ I have a diverse background, having worked as a tattoo artist, grayhat hacktivis
 ### :hammer_and_wrench: Systems I like playing with: ### 
 
 <div> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-line-wordmark.svg" title="Apache" alt="Apache" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" title="Debian" alt="Debian" width="40" height="40"/>&nbsp;
