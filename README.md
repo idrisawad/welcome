@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://github.com/idrisawad/idrisawad/blob/main/HelloWorld.gif" width="100"/>
+  <a img src="https://github.com/idrisawad/idrisawad/blob/main/HelloWorld.gif" width="100"/>
   </a>
   <a href="https://github.com/idrisawad">
     <img src="https://komarev.com/ghpvc/?username=idrisawad&style=flat-square&color=blue" alt=""/>
