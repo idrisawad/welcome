@@ -21,10 +21,9 @@ My name is Idris Awad, but you may also know me as @Almost2Late. I am an IT secu
 
 I have a diverse background, having worked as a tattoo artist, grayhat hacktivist, and a martial arts 剛柔流 sempai. My interests and skills have led me to explore the ever-evolving world of technology and security, and I am excited to share my projects and contributions with the community.
 
-On this page, you will find a variety of projects related to IT security, AI, WEB3 and blockchain, as well as other projects that I find interesting and fun to work on. I invite you to take a look around, and feel free to reach out if you have any questions or want to collaborate on a project.
+---
 
-Thank you for visiting my page, and I hope you enjoy what you find here!
-
+### :hammer_and_wrench: Languages I prefere:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
@@ -33,6 +32,9 @@ Thank you for visiting my page, and I hope you enjoy what you find here!
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div> 
+---
+
+### :hammer_and_wrench: Systems I like playing with:
 <div> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
@@ -40,6 +42,11 @@ Thank you for visiting my page, and I hope you enjoy what you find here!
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-line-wordmark.svg" title="RaspberryPi" alt="RaspberryPi" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
 </div> 
+
+
+On this Repo, you will find a variety of projects related to IT security, AI, WEB3 and blockchain, as well as other projects that I find interesting and fun to work on. I invite you to take a look around, and feel free to reach out if you have any questions or want to collaborate on a project.
+
+Thank you for visiting my page, and I hope you enjoy what you find here!
 
 ### Legal Disclaimer: ###
 
@@ -60,7 +67,6 @@ Thank you for visiting my page, and I hope you enjoy what you find here!
 *By accessing and using this Page, you acknowledge and agree to the terms of this legal disclaimer, policy and copyright notice.*
 
 ###### [My Github Forks](https://github.com/almost2late) ######
-###### [LinkedIn](https://www.linkedin.com/in/idris-awad) ######
 ###### [TryHackMe](https://tryhackme.com/p/AlmostTooLate) ######
 ###### [Mail](mailto:idris-awad@outlook.com) ######
 ###### Discord : on Request! ######
