@@ -61,7 +61,7 @@ Thank you for visiting my page, and I hope you enjoy what you find here!
 
 ---
 
-### :chart-increasing: Official Repo Stats | My Forked Stats :chart-increasing: ###
+### 📊 Official Repo Stats | My Forked Stats 📊 ###
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=idrisawad&theme=dark&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=almost2late&theme=dark&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
 
