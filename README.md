@@ -54,9 +54,9 @@ Thank you for visiting my page, and I hope you enjoy what you find here!
 
 ---
 
-### :fire: My Stats
+### :fire: Official Repo Stats | My Forked Stats :fire: ###
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=idrisawad&theme=dark&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=idrisawad&theme=dark&hide_border=true&border_radius=4.6)](https://git.io/streak-stats) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=idrisawad&theme=dark&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
 
 ---
 
