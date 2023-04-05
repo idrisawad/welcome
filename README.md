@@ -51,6 +51,9 @@ I have a diverse background, having worked as a tattoo artist, grayhat hacktivis
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NGINX" alt="NGINX" width="40" height="40"/>&nbsp;
+  <img src="https://seeklogo.com/images/O/openai-logo-F97AAA4254-seeklogo.com.png" title="Open AI" alt="Open AI" width="40" height="40"/>&nbsp;
+  <img src="https://seeklogo.com/images/D/discord-logo-B02E5FBA04-seeklogo.com.png" title="Discord" alt="Discord" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Midjourney_Emblem.png/640px-Midjourney_Emblem.png" title="Midjourney" alt="Midjourney" width="40" height="40"/>&nbsp;
 </div> 
 
 ---
